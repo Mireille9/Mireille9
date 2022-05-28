@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### I am a developer
->i am focused on .Net and Interactive web with different technologies
->i AM GLAD TO BE HERE
+> i am focused on .Net and Interactive web with different technologies
+> I AM GLAD TO BE HERE
 
 <!--
 **Mireille9/Mireille9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
